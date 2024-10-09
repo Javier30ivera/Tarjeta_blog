@@ -22,9 +22,11 @@ img{
 }
 .titulo{
     font-weight: 700;
-    margin-top: 16px;
-    margin-left: 16px;
-    margin-bottom: 6px;
+    color:black;
+    margin-left:16px;
+    margin-top: 20px;
+    margin-right: 16px;
+    margin-bottom:6px;
 }
 p{
     font: 14px Sora;
